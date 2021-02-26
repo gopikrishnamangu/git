@@ -1,5 +1,5 @@
 java
 MySql
 Tomcat 
-Nginx x.y.z
+Nginx 123
 # git
